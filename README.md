@@ -22,6 +22,6 @@ Wiring diagram:
 
 Special Thanks to:
 - Niko Hood for his [HID Libary](https://github.com/NicoHood/HID)
-- This Video
+- [This Video](https://www.youtube.com/watch?v=V1txmR8GXzE) that taught me everything i need to know about rotary encoders
 
 
