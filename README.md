@@ -19,6 +19,7 @@ Editors note: I don't advise anyone to use a small case like mine because you ca
 
 # Software Used:
 - Arduino IDE
+    - HID-Project.h
 - Fusion 360
 
 # Wiring diagram:
@@ -30,7 +31,7 @@ Editors note: I don't advise anyone to use a small case like mine because you ca
 - Blue   → out B  → D4
 
 # Special Thanks to:
-- Niko Hood for his [HID Libary](https://github.com/NicoHood/HID)
+- Niko Hood for his [HID Library](https://github.com/NicoHood/HID)
 - [This Video](https://www.youtube.com/watch?v=V1txmR8GXzE) that taught me everything I need to know about rotary encoders
 
 
