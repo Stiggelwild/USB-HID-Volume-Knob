@@ -1,6 +1,8 @@
+/* Hi,
+ * This is my code. (I know that it is not the best)
+ */
 
-
-// including libarys:
+// including librarys:
 #include "HID-Project.h"
 // defining Input Pins:
 #define CLK 4 // Rotary encoder side A
@@ -58,6 +60,7 @@ if (digitalRead(SW) == LOW){
 
   // Set media control an set variables to 0
 
+ // bttncycle is useless must be removed in the future
 
   if (bttncycle == 1){
     if(plps == 1){
